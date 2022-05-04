@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=metaversehq_backend_assessment
+POSTGRES_USER=mnVhuKriQZOfbWZtalaCwVWazPGoYxnP
+POSTGRES_PASSWORD=o7r23X1S7ubXCud0GoJhR4V8op6TO5ST7kwSU36GI5hlTZIAXQPrQhTjRL5bT5VW
